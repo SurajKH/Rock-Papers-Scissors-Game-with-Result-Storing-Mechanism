@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors-Game with Result Storing Mechanism
+# Rock Paper Scissors Game with Result Storing Mechanism
